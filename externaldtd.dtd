@@ -1,0 +1,9 @@
+<?xml version= "1.0" encoding= "UTF-8"?
+<!ELEMENT aptech (Employe* ,student*)>
+<!ELEMENT student (name , contact ,Qualification)>
+<!ELEMENT Employe (name , contact ,Qualification,sallery)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT Qualification (#PCDATA)>
+<!ELEMENT sallery (#PCDATA)>
+<!ATTLIST name profile CDATA #FIXED "Develper">

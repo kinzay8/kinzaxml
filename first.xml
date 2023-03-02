@@ -1,0 +1,220 @@
+<aptech>
+       <faculty>
+          <faculty>
+             <name>Ali</name>
+             <designationn>Senior faculty</designationn>
+             <age>20</age>
+          </faculty>
+          <faculty>
+                    <name>Ali</name>
+                    <desgination>Junier faculty</desgination>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                  <name>Ali</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                  <name>Ali</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                  <name>Ali</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                  <name>Ali</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                    <name>Azeem</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                    <name>Ikram</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                    <name>Anas</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                    <name>Umair</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                    <name>Amir</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                  <name>Ali</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                    <name>Zafir</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                  <name>Ali</name>     
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                 <faculty>
+                  <name>Ali</name>
+                    <designation>Senior faculty</designation>
+                    <age>20</age>
+                 </faculty>
+                
+
+       </faculty> 
+       <!-- <networking>
+          <faculty1>
+             <name>Ali</name>
+             <timming>11:pm</timming>
+          </faculty1>
+          <faculty2>
+                    <name>Hammad</name>
+                    <timming>11:30pm</timming>
+                 </faculty2>
+                 <faculty3>
+                    <name>Shahzad</name>
+                    <timming>12:00pm</timming>
+                 </faculty3>
+                 <faculty4>
+                    <name>Afaq</name>
+                    <timming>12:30pm</timming>
+                 </faculty4>
+                 <faculty5>
+                    <name>Haris</name>
+                    <timming>1:00pm</timming>
+                 </faculty5>
+                 <faculty6>
+                    <name>Saad</name>
+                    <timming>1:30pm</timming>
+                 </faculty6>
+                 <faculty7>
+                    <name>Azeem</name>
+                    <timming>1:40pm</timming>
+                 </faculty7>
+                 <faculty8>
+                    <name>Ikram</name>
+                    <timming>2:00pm</timming>
+                 </faculty8>
+                 <faculty9>
+                    <name>Anas</name>
+                    <timming>2:20pm</timming>
+                 </faculty9>
+                 <faculty10>
+                    <name>Umair</name>
+                    <timming>2:30pm</timming>
+                 </faculty10>
+                 <faculty11>
+                    <name>Amir</name>
+                    <timming>2:50pm</timming>
+                 </faculty11>
+                 <faculty12>
+                    <name>Shohaib</name>
+                    <timming>3:00pm</timming>
+                 </faculty12>
+                 <faculty13>
+                    <name>Zafir</name>
+                    <timming>3:20pm</timming>
+                 </faculty13>
+                 <faculty14>
+                    <name>Haseb</name>
+                    <timming>3:30pm</timming>
+                 </faculty14>
+                 <faculty15>
+                    <name>Huzaifa</name>
+                    <timming>3:40pm</timming>
+                 </faculty15>
+                 <faculty16>
+                    <name>Umer</name>
+                    <timming>3:50pm</timming>
+                 </faculty16>
+                 <faculty17>
+                    <name>Tanvir</name>
+                    <timming>3:55</timming>
+                 </faculty17>
+                 <faculty18>
+                    <name>Zakir</name>
+                    <timming>4:00pm</timming>
+                 </faculty18>
+                 <faculty19>
+                    <name>Ahad</name>
+                    <timming>4:10pm</timming>
+                 </faculty19>
+                 <faculty20>
+                    <name>Faisal</name>
+                    <timming>4:20pm</timming>
+                 </faculty20>
+                 <faculty21>
+                    <name>Sami</name>
+                    <timming>4:30pm</timming>
+                 </faculty21>
+                 <faculty22>
+                    <name>Areeb</name>
+                    <timming>4:40pm</timming>
+                 </faculty22>
+                 <faculty23>
+                    <name>Mehmood</name>
+                    <timming>4:50pm</timming>
+                 </faculty23>
+                 <faculty24>
+                    <name>Iqra</name>
+                    <timming>5:00pm</timming>
+                 </faculty24>
+                 <faculty25>
+                    <name>Kinza</name>
+                    <timming>5:20pm</timming>
+                 </faculty25>
+                 <faculty26>
+                    <name>Nasreen</name>
+                    <timming>5:30pm</timming>
+                 </faculty26>
+                 <faculty27>
+                    <name>Fiza</name>
+                    <timming>5:40pm</timming>
+                 </faculty27>
+                 <faculty28>
+                    <name>Sana</name>
+                    <timming>5:50pm</timming>
+                 </faculty28>
+                 <faculty29>
+                    <name>Waqas</name>
+                    <timming>6:00pm</timming>
+                 </faculty29>
+                 <faculty30>
+                    <name>Shabeer</name>
+                    <timming>6:30pm</timming>
+                 </faculty30>
+
+                
+
+          </networking>        -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</aptech>

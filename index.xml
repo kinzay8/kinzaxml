@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<bio>
+   <student>
+          <name>hammad</name>
+          <email>hammad@gmail.com</email>
+          <qualification>BA</qualification>
+   </student>
+   <student>
+          <name>huzaifa</name>
+          <email>h1@gmail.com</email>
+          <qualification>BS</qualification>
+   </student>
+   <student>
+          <name>anas</name>
+          <email>anas@gmail.com</email>
+          <qualification>MS</qualification>
+   </student>
+
+</bio>
